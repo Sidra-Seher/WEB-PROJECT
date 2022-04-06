@@ -672,14 +672,14 @@
 }
 .Best{
     width: 100%;
-    height: 110vh;
+    height: 125vh;
     /* background-color: #ffd333; */
     margin-top: 20px;
     display: flex;
 }
 .Best1{
     width: 30%;
-    height: 110vh;
+    height: 125vh;
     /* background-color: #95115e; */
     margin-left: 10%;
     border: 2px solid lightgray;
@@ -715,20 +715,20 @@
 }
 .Best2{
     width: 60%;
-    height: 110vh;
+    height: 125vh;
    
     /* background-color: #13d246; */
 }
 .Best2-1{
     width: 100%;
-    height: 55vh;
+    height: 60vh;
     /* background-color: #0e90bc; */
     display: flex;
     
 }
 .Best2-11{
     width: 45%;
-    height: 55vh;
+    height: 60vh;
     border: 2px solid lightgray;
     margin-left: 5%;
 }
@@ -755,7 +755,7 @@
 }
 .Best2-12{
     width: 45%;
-    height: 55vh;
+    height: 60vh;
     border: 2px solid lightgray;
     margin-left: 5%;
 }
@@ -782,7 +782,7 @@
 }
 .Best2-2{
     width: 100%;
-    height: 53vh;
+    height: 60vh;
     padding-top: 10px;
     /* background-color: #0e90bc; */
     display: flex;
@@ -790,7 +790,7 @@
 }
 .Best2-21{
     width: 45%;
-    height: 53vh;
+    height: 60vh;
     border: 2px solid lightgray;
     margin-left: 5%;
 }
@@ -817,7 +817,7 @@
 }
 .Best2-22{
     width: 45%;
-    height: 53vh;
+    height: 60vh;
     border: 2px solid lightgray;
     margin-left: 5%;
 }
