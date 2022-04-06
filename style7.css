@@ -449,6 +449,8 @@
     margin-top: 10px;
 }
 .cell2 p{
+    margin-top: 20px;
+    overflow: hidden;
     font-size: 16px;
     font-family: 'Times New Roman', Times, serif;
 }
