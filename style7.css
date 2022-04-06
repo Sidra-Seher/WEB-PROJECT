@@ -404,11 +404,12 @@
     border: 2px solid lightgray;
     margin: 20px 20%;
     height: 49vh;
+    margin-top: 40px;
 }
 .list{
     border: 2px solid lightgray;
     margin: 20px 20%;
-    height: 34vh; 
+    height: 40vh; 
     /* text-align: center; */
 }
 .list ul{
@@ -420,6 +421,7 @@
     border: 2px solid lightgray;
     margin: 20px 20%;
     height: 65vh;
+    margin-top: 40px;
 }
 .cell1{
     display: flex;
@@ -490,6 +492,7 @@
     margin: 20px 20%;
     height: 66vh;
     display: flex; 
+    margin-top: 40px;
     flex-direction: column;
 }
 .Comments h1{
