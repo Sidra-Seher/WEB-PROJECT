@@ -420,8 +420,9 @@
 .cell{
     border: 2px solid lightgray;
     margin: 20px 20%;
-    height: 65vh;
+    height: 80vh;
     margin-top: 40px;
+    overflow: hidden;
 }
 .cell1{
     display: flex;
