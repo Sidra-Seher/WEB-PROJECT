@@ -85,7 +85,7 @@
 .About{
     border: 2px solid lightgray;
     margin: 20px 20%;
-    height: 39vh;
+    height: 59vh;
 }
 .list{
     border: 2px solid lightgray;
@@ -101,7 +101,7 @@
 .cell{
     border: 2px solid lightgray;
     margin: 20px 20%;
-    height: 56vh;
+    height: 80vh;
 }
 .cell1{
     display: flex;
@@ -119,6 +119,7 @@
 }
 .cell2{
     display: flex;
+    margin-top: 40px;
 }
 .cell2 img{
     margin-left: 20px;
@@ -146,7 +147,7 @@
 .Newsletter{
     border: 2px solid lightgray;
     margin: 20px 20%;
-    height: 48vh;
+    height: 68vh;
     display: flex; 
     flex-direction: column;
 }
@@ -170,7 +171,7 @@
 .Comments{
     border: 2px solid lightgray;
     margin: 20px 20%;
-    height: 46vh;
+    height: 66vh;
     display: flex; 
     flex-direction: column;
 }
