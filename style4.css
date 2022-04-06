@@ -69,21 +69,21 @@
 }
 
 .nav2-2 input{
-    font-size: 20px;
+    font-size: 18px;
     border:2px solid silver;
     float: left;
     padding-right: 100px;
     margin-top: 10px;
     padding-left: 20px;
     margin-left: 20px;
-    width: 50%;
+    width: 55%;
 }
 .nav2-2 input ::placeholder{
     color: lightgrey;
 }
 .nav2-2 button{
     margin-top: 10px;
-    font-size: 23px;
+    font-size: 18px;
     border:2px solid silver;
 }
 .nav2-3{
